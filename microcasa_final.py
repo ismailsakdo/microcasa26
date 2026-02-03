@@ -294,7 +294,7 @@ def slide_0_hero():
         st.markdown("""
         <div style="background: #ecf0f1; padding: 20px; border-radius: 10px; border-left: 5px solid #2c3e50; margin-top: 30px;">
         <strong>PRESENTERS:</strong><br>
-        Dr. Syazwan Aizat Ismail, Abd Muhaimin Amiruddin, Nur Azzalia Kamaruzaman, Muaz Mohd Zaini Makhtar, et al.<br>
+        Syazwan Aizat Ismail, Abd Muhaimin Amiruddin, Nur Azzalia Kamaruzaman, Muaz Mohd Zaini Makhtar, Syamimi Shamsuddin, Muhammad Iftishah Ramdan, and Nor Asniza Ishak<br>
         <em>Universiti Sains Malaysia & Partners</em>
         </div>
         """, unsafe_allow_html=True)
